@@ -1,6 +1,6 @@
 # AMLS_22-23_SN19002093
 
-# external libraries: 
+# External libraries: 
 
 import os
 
@@ -39,7 +39,12 @@ B2: Eye colous classification
 
 
 # Organization
-Four files of tasks could be run together by "main.py". 
+
+A1, A2, B1, B2 includes the code for one task. 
+
+Datasets should include celeba (5000 jpg and label.csv), celeba_test (1000 jpg and label.csv), cartton_set (10000 png and label.csv), cartoon_set_test(2500 png and label.csv).
+
+Four files of tasks (A1, A2, B1, B2) could be run together by "main.py". 
 
 If running files by "main.py", please use the absolute path in all codes. 
 
