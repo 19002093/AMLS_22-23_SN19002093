@@ -22,3 +22,6 @@ B2: Eye colous classification
 
 # Organization
 Four files of tasks could be run together by "main.py". 
+If running files by "main.py", please use the absolute path in all codes. 
+If running files one by one, the relative path could be used. 
+Sometimes "main.py" reports errors, please relaunch the Jupyter Notebook. 
